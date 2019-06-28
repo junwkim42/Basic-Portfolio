@@ -1,0 +1,69 @@
+head {
+    background-color: #ffffff;
+    margin: 0px auto;
+}
+
+body {
+    background-image: url("C:/Users/Scott/Desktop/Bootcamp/BootcampActivity/BasicPortfolio/assets/images/floor-tile.png");
+    background-color: #cccccc;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    padding: 10px;
+    display: inline;
+    color: #ffffff;
+    font-family: 'Lilita One', cursive;
+    font-size: 50px;
+    line-height: 150%;
+    font-weight: 400;
+
+}
+
+hr {
+    margin: 0 0;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: black;
+}
+
+hr.blu {
+    color: #4aaaa5;
+    background-color: #4aaaa5;
+    height: 2px;
+}
+
+footer {
+    background-color: #666666;
+    color: #ffffff;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.nav {
+    display: inline-block;
+    background-color: #ffffff;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul.menutest li{
+    display: inline;
+}
+
+li.bline {
+    border-right: 1px solid grey;
+}
+
+.testclass {
+    margin-top:5px;
+    font-family:'Love Ya Like A Sister', cursive;
+    font-size: 35px;
+    font-weight: 300;
+}
